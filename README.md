@@ -82,8 +82,6 @@ Trained model weights are available on request. Open an issue or contact engurvi
 
 ## Citation
 
-If you use this code, please cite:
-
 ```
 This code accompanies a paper currently under review. A citation entry will be added here once the paper is published.
 ```
