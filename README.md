@@ -78,16 +78,16 @@ All of this is checkpointed: results are saved to JSON after each run and reload
 
 ## Requesting checkpoints
 
-Trained model weights are available on request. Open an issue or contact [engurvindersingh@gmail.com].
+Trained model weights are available on request. Open an issue or contact engurvindersingh@gmail.com
 
 ## Citation
 
 If you use this code, please cite:
 
 ```
-[BibTeX entry, add once the paper is accepted / has a DOI]
+This code accompanies a paper currently under review. A citation entry will be added here once the paper is published.
 ```
 
 ## License
 
-[Add your chosen license here, MIT or Apache 2.0 are common choices for research code]
+This project is licensed under the MIT License, see the LICENSE file for details.
