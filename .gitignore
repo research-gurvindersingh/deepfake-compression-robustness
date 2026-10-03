@@ -1,0 +1,14 @@
+# data and weights are not redistributed
+dataset/
+raw_dataset/
+compressed/
+runtime/
+models/
+*.pth
+*.pt
+# large figure exports (submit TIFFs to the journal, keep PDFs/PNGs in git)
+*.tif
+*.tiff
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

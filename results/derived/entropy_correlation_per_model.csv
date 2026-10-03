@@ -1,0 +1,8 @@
+Model,n,spearman_rho,p_value
+resnet18,20,0.1042,0.6619
+resnet50,20,-0.0674,0.7775
+xception,20,0.3863,0.0925
+efficientnet_b0,20,0.3311,0.1539
+mobilenetv2,20,0.5518,0.0117
+mesonet,20,-0.0981,0.6807
+vit,20,-0.4599,0.0413
