@@ -77,4 +77,3 @@ Training used one NVIDIA T4. Cells 49–58 are the earlier draft figures and are
 
 - CRS divides by original-quality accuracy. For MesoNet, whose baseline is near chance on three methods, a CRS near 1.0 reflects a performance floor rather than robustness; the paper treats CRS as informative only when baseline AUC exceeds 0.75.
 - Model weights and dataset frames are not redistributed. FaceForensics++ is subject to its own terms of use.
-- Add a `LICENSE` file before making the repository public.
